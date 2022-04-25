@@ -17,10 +17,10 @@ There were evidence of academic dishonesty for ninth graders at Thomas HighSchoo
 
 The school summary was  affected. As seen below, the before the 9th graders were updated to NaN, the percentages for passing math and reading were lower compared to after the corrections. 
 
-!school_summary_before_changes
+![school_summary_before_changes.png](resources/school_summary_before_changes.png)
 
 
-!school_summary_after_changes
+![school_summary_after_changes.png](resources/school_summary_after_changes.png)
 
 -How does replacing the ninth-grade scores affect the following:
     -Math and reading scores by grade
@@ -30,11 +30,11 @@ The school summary was  affected. As seen below, the before the 9th graders were
         The school spending was minimally impacted by replacing the ninth graders. As shown below the data is similar to before the changes.
        
         Before:
-            !spending_summary_before_changes
+![spending_summary_before_changes.png](resources/spending_summary_before_changes.png)
 
 
         After:
-            !spending_summary_after_changes
+![spending_summary_after_changes.png](resources/spending_summary_after_changes.png)
 
 
     -Scores by school size
@@ -42,11 +42,11 @@ The school summary was  affected. As seen below, the before the 9th graders were
 
          Before:
 
-            !scores_by_school_size_before_changes
+![scores_by_school_size_before_changes.png](resources/scores_by_school_size_before_changes.png)
 
         After: 
 
-            !scores_by_school_size_after_changes
+![scores_by_school_size_after_changes.png](resources/scores_by_school_size_after_changes.png)
 
 
     -Scores by school type
